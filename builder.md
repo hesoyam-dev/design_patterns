@@ -107,3 +107,10 @@ end
 #### Conclusion
 
 So after ```CarsBuilder``` creation we can understand what proper build parts are needed to build ```Car```.
+
+
+#### Visual example
+
+```ruby
+#TODO add basic visual examples
+```
