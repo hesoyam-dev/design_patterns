@@ -1,8 +1,8 @@
 # Adapter Pattern
 
-```“Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn’t otherwise because of incompatible interfaces.”```
+``“Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn’t otherwise because of incompatible interfaces.”``
 
-#### Example
+#### Description
 
 The Adapter pattern is specifically designed to deal with one system which has to interface with an already existing system in which a common interface between the two systems is desired.
 
@@ -64,4 +64,10 @@ boosted_car = BoostedCar.new(car_adapter)
 # Finally we can use 'use_turbine' method to boos our car
 boosted_car.use_turbine
 
+```
+
+### Visual example
+
+```ruby
+#TODO add visual examples from google drive
 ```
