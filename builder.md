@@ -111,6 +111,4 @@ So after ```CarsBuilder``` creation we can understand what proper build parts ar
 
 #### Visual example
 
-```ruby
-#TODO add basic visual examples
-```
+![](https://imgur.com/D7yA2RM.png)

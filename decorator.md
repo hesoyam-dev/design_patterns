@@ -63,7 +63,7 @@ end
 # additional options for your car
 class CarAdditionalOptions
   attr_accessor :price
-  
+
   def initialize(car)
     @car = car
   end
@@ -78,3 +78,7 @@ max_complectation_honda = CarWithMaxComplectation.new(honda) # decorate with Car
 max_complectation_honda_with_options = CarAdditionalOptions.new(max_complectation_honda)
 puts "Final car price is: #{max_complectation_honda_with_options.price}"
 ```
+
+### Visual example
+
+![](https://imgur.com/0A5QRKD.png)

@@ -68,6 +68,6 @@ boosted_car.use_turbine
 
 ### Visual example
 
-```ruby
-#TODO add visual examples from google drive
-```
+![](https://i.imgur.com/YxzcMra.png)
+
+![](https://imgur.com/YuL7PIm.png)
