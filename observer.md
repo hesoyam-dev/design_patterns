@@ -77,7 +77,7 @@ honda.notify_observers
 
 # Result
 # [Mechanic]: The details cost for car Honda Accord will be 2000 USD
-# [Manager]: Need to offer list of details: engine,asd,asd,dsa
+# [Manager]: Need to offer list of details: Engine, Windows, Cameras, Doors
 # [Owner]: Need to pay: 2000
 ```
 
